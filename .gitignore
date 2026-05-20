@@ -1,0 +1,7 @@
+# Root level - ignore everything except chatbot-grade10 project
+node_modules/
+package.json
+package-lock.json
+
+# Keep project folder
+!chatbot-grade10/
